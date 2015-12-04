@@ -1,0 +1,12 @@
+c:\users\darlan\documents\visual studio 2015\Projects\GeradorDeEnderecosDIME\GeradorDeEnderecosDIME\bin\Debug\GeradorDeEnderecosDIME.exe.config
+c:\users\darlan\documents\visual studio 2015\Projects\GeradorDeEnderecosDIME\GeradorDeEnderecosDIME\bin\Debug\GeradorDeEnderecosDIME.exe
+c:\users\darlan\documents\visual studio 2015\Projects\GeradorDeEnderecosDIME\GeradorDeEnderecosDIME\bin\Debug\GeradorDeEnderecosDIME.pdb
+c:\users\darlan\documents\visual studio 2015\Projects\GeradorDeEnderecosDIME\GeradorDeEnderecosDIME\obj\Debug\GeradorDeEnderecosDIME.csprojResolveAssemblyReference.cache
+c:\users\darlan\documents\visual studio 2015\Projects\GeradorDeEnderecosDIME\GeradorDeEnderecosDIME\obj\Debug\GeradorDeEnderecosDIME.exe
+c:\users\darlan\documents\visual studio 2015\Projects\GeradorDeEnderecosDIME\GeradorDeEnderecosDIME\obj\Debug\GeradorDeEnderecosDIME.pdb
+D:\GeradorDeEnderecosDIME\GeradorDeEnderecosDIME\bin\Debug\GeradorDeEnderecosDIME.exe.config
+D:\GeradorDeEnderecosDIME\GeradorDeEnderecosDIME\obj\Debug\GeradorDeEnderecosDIME.exe
+D:\GeradorDeEnderecosDIME\GeradorDeEnderecosDIME\obj\Debug\GeradorDeEnderecosDIME.pdb
+D:\GeradorDeEnderecosDIME\GeradorDeEnderecosDIME\obj\Debug\GeradorDeEnderecosDIME.csprojResolveAssemblyReference.cache
+D:\GeradorDeEnderecosDIME\GeradorDeEnderecosDIME\bin\Debug\GeradorDeEnderecosDIME.exe
+D:\GeradorDeEnderecosDIME\GeradorDeEnderecosDIME\bin\Debug\GeradorDeEnderecosDIME.pdb
